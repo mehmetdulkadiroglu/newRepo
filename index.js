@@ -10,6 +10,8 @@ Circle.prototype.getCircumference = function() {
     return 2 * Math.PI * this.radius;
 }
 
+//some random stuff
+
 // Using the Circle object
 let myCircle = new Circle(5);
 console.log(myCircle.getArea()); // Output: 78.53981633974483
