@@ -4,10 +4,6 @@
 console.log(addTwoNumbers(2, 3));  // Output: 5
 console.log(subtractTwoNumbers(5, 2));  // Output: 3
 
-// Define a basic object
-let Circle = function(radius) {
-    this.radius = radius;
-}
 
 // Method to get the area of the circle
 Circle.prototype.getArea = function() {
