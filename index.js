@@ -5,11 +5,6 @@ console.log(addTwoNumbers(2, 3));  // Output: 5
 console.log(subtractTwoNumbers(5, 2));  // Output: 3
 
 
-// Method to get the area of the circle
-Circle.prototype.getArea = function() {
-    return Math.PI * Math.pow(this.radius, 2);
-}
-
 // New method to get the circumference of the circle
 Circle.prototype.getCircumference = function() {
     return 2 * Math.PI * this.radius;
