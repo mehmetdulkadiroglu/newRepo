@@ -1,9 +1,5 @@
 // index.js
 
-// Function to add two numbers
-function addTwoNumbers(a, b) {
-    return a + b;
-}
 
 console.log(addTwoNumbers(2, 3));  // Output: 5
 console.log(subtractTwoNumbers(5, 2));  // Output: 3
