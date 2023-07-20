@@ -1,13 +1,8 @@
-// final.js
+// index.js
 
 // Function to add two numbers
 function addTwoNumbers(a, b) {
     return a + b;
-}
-
-// New function to subtract two numbers
-function subtractTwoNumbers(a, b) {
-    return a - b;
 }
 
 console.log(addTwoNumbers(2, 3));  // Output: 5
