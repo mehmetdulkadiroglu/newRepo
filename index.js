@@ -9,6 +9,7 @@ console.log(subtractTwoNumbers(5, 2));  // Output: 3
 Circle.prototype.getCircumference = function() {
     return 2 * Math.PI * this.radius;
 }
+//whatever
 
 // Using the Circle object
 let myCircle = new Circle(5);
